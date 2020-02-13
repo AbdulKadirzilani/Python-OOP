@@ -6,6 +6,19 @@ class Employee:
         self.v=v
 
 #company getter method
+    # @property
+    # def getCompany(self):
+    #     print("Property getter class Method")
+    #     return self.__company
+    #
+    # #company setter method
+    # @getCompany.setter
+    # def getCompany(self,value):
+    #     print("setter method property")
+    #     self.__company = value
+
+
+
     @property
     def getCompany(self):
         print("Property getter class Method")
@@ -16,6 +29,7 @@ class Employee:
     def getCompany(self,value):
         print("setter method property")
         self.__company = value
+
 
 
 e =Employee('Pranoy','Amazon',"zilani")
