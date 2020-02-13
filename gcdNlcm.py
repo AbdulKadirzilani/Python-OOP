@@ -12,7 +12,6 @@ print(gcd(60, 30))
 
 
 # from input
-
 def gcd(a,b):
     if(b==0):
         return a
