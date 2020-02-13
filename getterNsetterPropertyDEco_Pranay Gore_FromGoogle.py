@@ -37,14 +37,16 @@ print(e.getCompany)
 e.getCompany = "google"
 print(e.getCompany)
 
-Employee.getCompany = "Microsoft"   #set vaule by calling the property method using class name
+#set vaule by calling the property method using class name
+
+Employee.getCompany = "Microsoft"
 print(Employee.getCompany)
 
 
-#__company private attribute tai eke direct access kora jaina
+#_company private attribute tai eke direct access kora jaina
 #print(e.__company)
 
-#print(e.Employee.__company)
+#print(e._Employee._company)
 
 
 
