@@ -1,8 +1,8 @@
-li = [64, 34, 25, 12, 22, 11, 90]
+li = [5,10,2,8,7]
 
 
-for i in range(len(li)):
-    for j in range(len(li)-i-1):
+for i in range(len(li)): #5
+    for j in range(len(li)-i-1): #3
 
         if li[j]> li[j+1]:
             tem= li[j]
