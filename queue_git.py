@@ -22,3 +22,7 @@ li2 = {3,4,5}
 print(li1|li2)
 
 print(li1&li2)
+
+
+li3 = set()
+print(li3)
