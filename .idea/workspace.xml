@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce57ecc-9c5a-41ef-9f5b-dfc322372d88" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/reverseNumber.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,11 +59,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fibo_recursive.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/venv/fibo_recursive.py">
+      <file leaf-file-name="fibo_recursive.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fibo_recursive.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="220">
+              <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="reverseNumber.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/reverseNumber.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="280">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queueUsingStack.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queueUsingStack.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="queueUsingStack2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/queueUsingStack2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -82,7 +110,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/maximum number.py" />
         <option value="$PROJECT_DIR$/remove_dublicateValue.py" />
         <option value="$PROJECT_DIR$/findDublicateValue.py" />
         <option value="$PROJECT_DIR$/dic.py" />
@@ -133,6 +160,7 @@
         <option value="$PROJECT_DIR$/bst_ElementSearch.py" />
         <option value="$PROJECT_DIR$/fibbonaki1.py" />
         <option value="$PROJECT_DIR$/venv/fibo_recursive.py" />
+        <option value="$PROJECT_DIR$/reverseNumber.py" />
       </list>
     </option>
   </component>
@@ -171,6 +199,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\pythonMaleria\Python-OOP" />
       <recent name="D:\pythonMaleria\Python-OOP\venv" />
     </key>
   </component>
@@ -186,7 +215,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fibo_recursive">
+  <component name="RunManager" selected="Python.reverseNumber">
     <configuration name="bst_ElementSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -235,25 +264,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/fibo_recursive.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="listComphre2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\pythonMaleria\Python-OOP\oddEven_listComprehen.py" />
+      <option name="SCRIPT_NAME" value="D:\pythonMaleria\Python-OOP\fibo_recursive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -277,20 +288,38 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="reverseNumber" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/reverseNumber.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.listComphre2" />
       <item itemvalue="Python.oddEven_listComprehen" />
       <item itemvalue="Python.bst_ElementSearch" />
       <item itemvalue="Python.fibbonaki1" />
       <item itemvalue="Python.fibo_recursive" />
+      <item itemvalue="Python.reverseNumber" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.reverseNumber" />
         <item itemvalue="Python.fibo_recursive" />
         <item itemvalue="Python.fibbonaki1" />
         <item itemvalue="Python.bst_ElementSearch" />
         <item itemvalue="Python.oddEven_listComprehen" />
-        <item itemvalue="Python.listComphre2" />
       </list>
     </recent_temporary>
   </component>
@@ -499,15 +528,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17633928" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.27557755" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.27557755" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.32838285" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3990461" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -569,13 +599,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/findDublicateValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2ndMaxValue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -622,20 +645,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="940">
           <caret line="47" column="23" selection-start-line="47" selection-start-column="23" selection-end-line="47" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queueUsingStack.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="15" column="36" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/queueUsingStack2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="20" column="9" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -901,10 +910,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/venv/fibo_recursive.py">
+    <entry file="file://$PROJECT_DIR$/fibo_recursive.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="220">
+          <caret line="11" column="9" lean-forward="true" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queueUsingStack.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/queueUsingStack2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reverseNumber.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
