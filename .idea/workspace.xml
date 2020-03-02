@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bce57ecc-9c5a-41ef-9f5b-dfc322372d88" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/bst_ElementSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fibbonaki1.py" afterDir="false" />
-    </list>
+    <list default="true" id="bce57ecc-9c5a-41ef-9f5b-dfc322372d88" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -50,11 +47,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="fibbonaki1.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="fibbonaki1.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/fibbonaki1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="80">
+              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fibo_recursive.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/venv/fibo_recursive.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="80">
+              <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -74,7 +80,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sumListString.py" />
         <option value="$PROJECT_DIR$/maximum number.py" />
         <option value="$PROJECT_DIR$/remove_dublicateValue.py" />
         <option value="$PROJECT_DIR$/findDublicateValue.py" />
@@ -125,10 +130,11 @@
         <option value="$PROJECT_DIR$/oddEven_listComprehen.py" />
         <option value="$PROJECT_DIR$/bst_ElementSearch.py" />
         <option value="$PROJECT_DIR$/fibbonaki1.py" />
+        <option value="$PROJECT_DIR$/venv/fibo_recursive.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="739" />
     <option name="height" value="735" />
@@ -178,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fibbonaki1">
+  <component name="RunManager" selected="Python.fibo_recursive">
     <configuration name="bst_ElementSearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -215,7 +221,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="filterFunction" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="fibo_recursive" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -223,11 +229,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/filterFunction.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/venv/fibo_recursive.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -270,19 +276,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.filterFunction" />
       <item itemvalue="Python.listComphre2" />
       <item itemvalue="Python.oddEven_listComprehen" />
       <item itemvalue="Python.bst_ElementSearch" />
       <item itemvalue="Python.fibbonaki1" />
+      <item itemvalue="Python.fibo_recursive" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fibo_recursive" />
         <item itemvalue="Python.fibbonaki1" />
         <item itemvalue="Python.bst_ElementSearch" />
         <item itemvalue="Python.oddEven_listComprehen" />
         <item itemvalue="Python.listComphre2" />
-        <item itemvalue="Python.filterFunction" />
       </list>
     </recent_temporary>
   </component>
@@ -490,7 +496,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.17633928" />
@@ -500,7 +506,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3290938" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32838285" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3990461" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -562,13 +568,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/maximum number.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/findDublicateValue.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -896,8 +895,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/fibbonaki1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="5" column="11" lean-forward="true" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="80">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/fibo_recursive.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="4" column="12" lean-forward="true" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
         </state>
       </provider>
     </entry>
