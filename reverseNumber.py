@@ -4,6 +4,7 @@ print(a)
 #print(a)
 li=[]
 # self.s2.append(self.s1[-1])
+
 for i in range(1,len(a)+1):
     li.append(a[-i])
     #li.append(a.pop()) #not work
