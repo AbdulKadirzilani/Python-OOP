@@ -71,8 +71,8 @@
       <file leaf-file-name="method_overiding.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/method_overiding.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+            <state relative-caret-position="240">
+              <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -173,7 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="width" value="739" />
     <option name="height" value="735" />
@@ -224,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pyramid_triangle">
+  <component name="RunManager" selected="Python.method_overiding">
     <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -243,7 +243,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="commnSubstring" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="method_overiding" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -255,7 +255,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/commnSubstring.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/method_overiding.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +316,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.commnSubstring" />
       <item itemvalue="Python.binarySearch" />
       <item itemvalue="Python.static method3" />
       <item itemvalue="Python.pyramid_triangle" />
       <item itemvalue="Python.pyramid1" />
+      <item itemvalue="Python.method_overiding" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.method_overiding" />
         <item itemvalue="Python.pyramid_triangle" />
         <item itemvalue="Python.pyramid1" />
         <item itemvalue="Python.static method3" />
         <item itemvalue="Python.binarySearch" />
-        <item itemvalue="Python.commnSubstring" />
       </list>
     </recent_temporary>
   </component>
@@ -537,16 +537,15 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14732143" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14732143" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.27557755" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="1" visible="true" weight="0.26732674" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.26732674" />
       <window_info id="Favorites" order="0" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3990461" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -593,7 +592,7 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url />
+          <url>file://$PROJECT_DIR$/getterNsett_Pranay Gore_fromGoogle.py</url>
           <line>28</line>
         </line-breakpoint>
       </breakpoints>
@@ -942,8 +941,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/method_overiding.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="3" column="8" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
+        <state relative-caret-position="240">
+          <caret line="12" column="23" lean-forward="true" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
         </state>
       </provider>
     </entry>
