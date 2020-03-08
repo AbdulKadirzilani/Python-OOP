@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bce57ecc-9c5a-41ef-9f5b-dfc322372d88" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/static method3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyramid1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pyramid_triangle.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="reverseNumber.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/reverseNumber.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="EvenOddSeries.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/EvenOddSeries.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -77,11 +69,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="static method3.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="static method3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/static method3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="331">
-              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+            <state relative-caret-position="298">
+              <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyramid_triangle.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pyramid_triangle.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pyramid1.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pyramid1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -91,15 +101,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="340">
               <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="queueUsingStack2.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/queueUsingStack2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -119,8 +120,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/dublicate value.py" />
-        <option value="$PROJECT_DIR$/convertListToStr.py" />
         <option value="$PROJECT_DIR$/2ndLargestValue.py" />
         <option value="$PROJECT_DIR$/sumAllDigit.py" />
         <option value="$PROJECT_DIR$/ArmStrongNum.py" />
@@ -170,6 +169,8 @@
         <option value="$PROJECT_DIR$/commnSubstring.py" />
         <option value="$PROJECT_DIR$/binarySearch.py" />
         <option value="$PROJECT_DIR$/static method3.py" />
+        <option value="$PROJECT_DIR$/pyramid_triangle.py" />
+        <option value="$PROJECT_DIR$/pyramid1.py" />
       </list>
     </option>
   </component>
@@ -224,25 +225,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.static method3">
-    <configuration name="10 To 1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python-OOP" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10 To 1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.pyramid1">
     <configuration name="binarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -279,7 +262,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="esrm" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="pyramid1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python-OOP" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -291,7 +274,25 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/esrm.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyramid1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="pyramid_triangle" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python-OOP" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyramid_triangle.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -316,19 +317,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.10 To 1" />
-      <item itemvalue="Python.esrm" />
       <item itemvalue="Python.commnSubstring" />
       <item itemvalue="Python.binarySearch" />
       <item itemvalue="Python.static method3" />
+      <item itemvalue="Python.pyramid_triangle" />
+      <item itemvalue="Python.pyramid1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pyramid1" />
+        <item itemvalue="Python.pyramid_triangle" />
         <item itemvalue="Python.static method3" />
         <item itemvalue="Python.binarySearch" />
         <item itemvalue="Python.commnSubstring" />
-        <item itemvalue="Python.esrm" />
-        <item itemvalue="Python.10 To 1" />
       </list>
     </recent_temporary>
   </component>
@@ -539,12 +540,12 @@
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.14732143" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.14732143" />
       <window_info anchor="bottom" id="TODO" order="10" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="3" />
       <window_info anchor="bottom" id="Python Console" order="0" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.27557755" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.27557755" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.26732674" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -608,20 +609,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/convertListToStr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="23" column="16" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2ndLargestValue.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sumAllDigit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
@@ -942,8 +929,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/static method3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="331">
-          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
+        <state relative-caret-position="298">
+          <caret line="18" column="18" lean-forward="true" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid_triangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pyramid1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
